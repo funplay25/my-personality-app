@@ -1,4 +1,4 @@
-const myEmojis = [];
+const myEmojis = ["⛰", "😍", "✌", "💕"];
 const pushBtn = document.getElementById("push-btn");
 const unshiftBtn = document.getElementById("unshift-btn");
 const popBtn = document.getElementById("pop-btn");
